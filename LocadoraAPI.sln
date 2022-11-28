@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraAPI", "LocadoraAPI\LocadoraAPI.csproj", "{C7D31276-8336-4D33-A1B7-B3D60F42B46E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D31276-8336-4D33-A1B7-B3D60F42B46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D31276-8336-4D33-A1B7-B3D60F42B46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D31276-8336-4D33-A1B7-B3D60F42B46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D31276-8336-4D33-A1B7-B3D60F42B46E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B453E56C-A8B4-4E90-A2CB-28709EFE093D}
+	EndGlobalSection
+EndGlobal
